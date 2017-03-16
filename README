@@ -1,0 +1,8 @@
+
+README:
+
+Download the ORIANA API and Install the Library onto your Build Path (I used the Eclipse IDE). 
+
+In the SRC FOLDER, you will find file LeagueofLegends.java. Import the code, and it will run. 
+
+For example inputs, you can use Summoner Names: Lumenia (Level 30), Murkrows (Level 7).
